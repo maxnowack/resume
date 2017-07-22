@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Max Nowack",
+    "label": "Software Developer",
+    "picture": "http://max.unsou.de/files/max.png",
+    "email": "max@unsou.de",
+    "phone": "+49 171 4470 181",
+    "website": "http://max.unsou.de",
+    "summary": "",
+    "location": {
+      "address": "Auf dem Lohberge 29",
+      "postalCode": "37085",
+      "city": "Göttingen",
+      "countryCode": "DE",
+      "region": "Lower Saxony"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "maxnowack",
+        "url": "https://twitter.com/maxnowack"
+      },
+      {
+        "network": "Facebook",
+        "username": "maxnowack.129",
+        "url": "https://facebook.com/maxnowack.129"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "mbs Marketing- und Bildungsservice GmbH",
+      "position": "Auszubildener Fachinformatiker (Anwendungsentwicklung)",
+      "website": "http://mbs-it.de",
+      "startDate": "2007-07-01",
+      "endDate": "2010-06-18",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "mbs Marketing- und Bildungsservice GmbH",
+      "position": "IT-Service Coach",
+      "website": "http://mbs-it.de",
+      "startDate": "2010-06-19",
+      "endDate": "2011-03-31",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "SYCOR mbs GmbH",
+      "position": "SharePoint Solution Developer",
+      "website": "http://sycor-mbs.de",
+      "startDate": "2011-04-01",
+      "endDate": "2014-09-31",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "oaf | medium",
+      "position": "Javascript Expert",
+      "website": "http://oafmedium.de",
+      "startDate": "2014-10-01",
+      "endDate": "2015-10-31",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "TeamGrid UG (haftungsbeschränkt)",
+      "position": "Chief Executive Officer",
+      "website": "http://teamgridapp.com",
+      "startDate": "2015-11-01",
+      "endDate": "2017-02-28",
+      "summary": "",
+      "highlights": []
+    }, {
+      "company": "TeamGrid UG (haftungsbeschränkt)",
+      "position": "Chief Technology Officer",
+      "website": "http://teamgridapp.com",
+      "startDate": "2017-03-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    }, {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
